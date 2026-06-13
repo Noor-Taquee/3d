@@ -1,0 +1,34 @@
+{
+  "name": "3d",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "format": "prettier --write \"src/**/*.{js,ts,json,css}\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/username/3d.git"
+  },
+  "bugs": {
+    "url": "https://github.com/username/3d/issues"
+  },
+  "homepage": "https://github.com/username/3d#readme",
+  "devDependencies": {
+    "@types/three": "^0.184.1",
+    "prettier": "^3.8.4",
+    "typescript": "^6.0.3",
+    "vite": "^8.0.14"
+  },
+  "dependencies": {
+    "three": "^0.184.0"
+  }
+}
