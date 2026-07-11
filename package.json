@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/username/3d#readme",
   "devDependencies": {
-    "@types/three": "^0.184.1",
+    "@types/three": "^0.185.1",
     "prettier": "^3.8.4",
     "typescript": "^6.0.3",
     "vite": "^8.0.14"
