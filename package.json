@@ -25,7 +25,7 @@
   "devDependencies": {
     "@types/three": "^0.184.1",
     "prettier": "^3.8.4",
-    "typescript": "^6.0.3",
+    "typescript": "^7.0.2",
     "vite": "^8.0.14"
   },
   "dependencies": {
